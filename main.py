@@ -1,4 +1,3 @@
-# main.py
 import aiohttp
 import asyncio
 import json
