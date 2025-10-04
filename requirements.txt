@@ -1,6 +1,2 @@
 aiogram
 aiohttp
-telegram
-update
-b4
-Tgcyrpto
